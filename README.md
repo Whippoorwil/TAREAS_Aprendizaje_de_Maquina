@@ -1,4 +1,7 @@
-# TAREAS: INTRODUCCIÓN AL APRENDIZAJE DE MAQUINA - Repositorio con tareas para la clase Inroducción al Aprendizaje de Máquina. 
+# TAREAS: INTRODUCCIÓN AL APRENDIZAJE DE MAQUINA 
 
-Theta.pdf es un trabajo relacionado con la convergencia del perceptrón. Tareas; los puntos 1.2, 1.3, 1.11. Exercice1.10.ipynb lidia con el ejercicio 1.10.
-XOR_NEURONS.ipynb es la simulación del operador XOR usando una red neuronal pequeña.
+He cambiado algunas cosas en el repo desde la primera versión; el punto 1.10 está ahora junto a los demás en el colab "Mchine_Learning_Exercices".
+
+Theta.pdf es una discusión somera sobre la covergencia del perceptrón.
+
+XOR_NEURONS no es más que una simulación del operador "XOR" usando una pequeña red neuronal.
