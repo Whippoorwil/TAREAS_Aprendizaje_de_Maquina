@@ -7,4 +7,4 @@ Theta.pdf es una discusión somera sobre la covergencia del perceptrón.
 XOR_NEURONS no es más que una simulación del operador "XOR" usando una pequeña red neuronal.
 
 
-Hice unas correcciones ortográficas el 8 de mayo. El notebook fue subido a tiempo, símplemente noté algunos asuntos de calidad que decidí corregir. El espíritu del trabajo es el mismo, pero correcciones fueron necesarias dadas dificultades con la lengua inglesa. Espero ser más cuidadoso en el futuro. 
+Hice unas correcciones ortográficas el 8 de mayo. El notebook fue subido a tiempo, símplemente noté algunos asuntos de calidad que decidí modificar. El espíritu del trabajo original permanece. 
